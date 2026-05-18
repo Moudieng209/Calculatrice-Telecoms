@@ -32,3 +32,9 @@ Si vous voulez, je peux:
 - Ajouter un petit loader lors des requêtes réseau.
 - Externaliser davantage le JS dans `app.js`.
 - Ajouter une validation côté client pour les entrées numériques.
+
+<img width="1359" height="956" alt="image" src="https://github.com/user-attachments/assets/99184f11-17ec-4794-b66b-482749d64c57" />
+<img width="1326" height="956" alt="image" src="https://github.com/user-attachments/assets/6411938a-5419-41d4-ac03-b11f954e4bc3" />
+<img width="1340" height="932" alt="image" src="https://github.com/user-attachments/assets/ef301e90-8b29-4331-accf-4692837c100b" />
+<img width="1281" height="935" alt="image" src="https://github.com/user-attachments/assets/33dd1e2b-d278-441a-befb-84f3d0623c34" />
+<img width="1360" height="920" alt="image" src="https://github.com/user-attachments/assets/3f6df596-e5a1-472d-952d-239d19f3eb77" />
